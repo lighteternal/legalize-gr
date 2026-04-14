@@ -37,7 +37,7 @@ The *Series A* (*Σειρά Α΄*) of the Government Gazette publishes the prima
 
 **Coverage:** 26 major codes and laws covering ~99% of Greek courtroom practice, organised article by article.
 
-**File naming:** `codes/{CODE}-{article_number}.md` — e.g. `codes/AK-0001.md`
+**File naming:** `codes/{CODE}/{CODE}-{article_number}.md` — e.g. `codes/AK/AK-0001.md`
 
 ### Civil & Procedural Law
 
